@@ -44,3 +44,5 @@ function randomColor() {
 }
 
 random.addEventListener("click", randomColor);
+
+button.style.background("click", randomColor);
