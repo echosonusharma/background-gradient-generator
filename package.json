@@ -1,0 +1,19 @@
+{
+  "name": "background-gradient-generator",
+  "version": "1.0.0",
+  "description": "generates random color-gradients",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echosonusharma/background-gradient-generator.git"
+  },
+  "author": "sonu sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echosonusharma/background-gradient-generator/issues"
+  },
+  "homepage": "https://github.com/echosonusharma/background-gradient-generator#readme"
+}
